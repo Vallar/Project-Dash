@@ -1,0 +1,15 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 460657284b962ea45af35940a91149ab, type: 3}
+  m_Name: Bouncy
+  m_EditorClassIdentifier: 
+  data: {fileID: 11400000, guid: 6c48c387fcbca08438d0e9b3bcebd16f, type: 2}
+  bouncyMaterial: {fileID: 6200000, guid: 758fc54bd7404274aadc07e549f20e06, type: 2}
